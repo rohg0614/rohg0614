@@ -5,7 +5,7 @@
 **Machine Learning & Artificial Intelligence**  
 CS undergrad at Manipal Institute of Technology Bengaluru
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohin--gupta-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohingupta0614)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RohinGupta-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohingupta0614)
 [![Email](https://img.shields.io/badge/Email-rohg0614@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rohg0614@gmail.com)
 [![Location](https://img.shields.io/badge/Bengaluru-India-555?style=flat-square)](https://github.com/rohg0614)
 
