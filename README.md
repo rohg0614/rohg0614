@@ -68,7 +68,7 @@ End-to-end ML system for clinical risk prediction and patient management.
 
 ## Certifications
 
-- **Data Analytics Job Simulation** — Deloitte Australia (Forage), 2024
+- **Data Analytics Job Simulation** — Deloitte Australia (Forage), 2025
 - **Cloud Security on SAP Business Security Platforms** — SAP, 2024
 
 ---
