@@ -29,6 +29,7 @@ Outside of coursework, I'm a **Student Fellow of the Royal Aeronautical Society*
 Certified in **Data Analytics (Deloitte Australia)** and **Cloud Security (SAP)**. Actively seeking internship opportunities in machine learning and AI.
 
 ---
+![Rohin's GitHub Activity](https://ghchart.rshah.org/58a6ff/rohg0614)
 
 ## Projects
 
