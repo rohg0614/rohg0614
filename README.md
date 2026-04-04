@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██████╗  ██████╗ ██╗  ██╗██╗███╗   ██╗
-██╔══██╗██╔═══██╗██║  ██║██║████╗  ██║
-██████╔╝██║   ██║███████║██║██╔██╗ ██║
-██╔══██╗██║   ██║██╔══██║██║██║╚██╗██║
-██║  ██║╚██████╔╝██║  ██║██║██║ ╚████║
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
-```
+# Rohin Gupta
 
 **Machine Learning & Artificial Intelligence**  
 CS undergrad at Manipal Institute of Technology Bengaluru
@@ -29,7 +22,6 @@ Outside of coursework, I'm a **Student Fellow of the Royal Aeronautical Society*
 Certified in **Data Analytics (Deloitte Australia)** and **Cloud Security (SAP)**. Actively seeking internship opportunities in machine learning and AI.
 
 ---
-![Rohin's GitHub Activity](https://ghchart.rshah.org/58a6ff/rohg0614)
 
 ## Projects
 
@@ -60,7 +52,7 @@ End-to-end ML system for clinical risk prediction and patient management.
 
 ## Stack
 
-**Languages** &nbsp;·&nbsp; Python · SQL · C · JavaScript · Bash
+**Languages** &nbsp;·&nbsp; Python · SQL · C · JavaScript · Bash · Java
 
 **ML / AI** &nbsp;·&nbsp; TensorFlow · Keras · Scikit-learn · XGBoost · SHAP · Gymnasium/OpenEnv
 
