@@ -15,7 +15,7 @@ CS undergrad at Manipal Institute of Technology Bengaluru
 
 ## About
 
-I'm a sophomore CS undergrad building predictive ML systems and AI environments. My work spans deep learning, reinforcement learning, graph-based agent environments, and full-stack ML pipelines.
+I'm a junior CS undergrad building predictive ML systems and AI environments. My work spans deep learning, reinforcement learning, graph-based agent environments, and full-stack ML pipelines.
 
 Outside of coursework, I'm a **Student Fellow of the Royal Aeronautical Society** — one of the youngest to join at age 12 — with 7+ years of involvement in aerospace research, conference logistics, and technical writing.
 
